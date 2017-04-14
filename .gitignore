@@ -2,3 +2,7 @@
 .gitignore
 .idea
 venv
+env/
+project/atm/__pycache__/
+*.pyc
+project/db.sqlite3
